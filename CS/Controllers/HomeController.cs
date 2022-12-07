@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using Example.Models;
 using DevExpress.Web.Mvc;
 using System.Data;
-using DevExpress.Web.ASPxTreeView;
+using DevExpress.Web;
 
 namespace Example.Controllers {
     public class HomeController : Controller {

@@ -7,7 +7,7 @@ Imports System.Web.Mvc
 Imports Example.Models
 Imports DevExpress.Web.Mvc
 Imports System.Data
-Imports DevExpress.Web.ASPxTreeView
+Imports DevExpress.Web
 
 Namespace Example.Controllers
 	Public Class HomeController
