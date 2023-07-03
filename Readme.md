@@ -26,4 +26,4 @@ This example demonstrates how to display data stored in a [DataTable](https://le
 
 * [TreeView for ASP.NET Forms - How to display data from a DataTable in unbound mode](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-to-plain-data-unbound-mode-e2873)
 * [TreeView for ASP.NET Forms - How to display data from a DataTable in virtual mode](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-to-plain-data-virtual-mode-e2872)
-* [TreeView for ASP.NET Forms - How to bind the control to XpoDataSource](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-with-associated-objects-or-the-xpohierarchicaldatasource-e2875)
+* [TreeView for ASP.NET Forms - How to bind the control to an XpoDataSource](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-with-associated-objects-or-the-xpohierarchicaldatasource-e2875)
