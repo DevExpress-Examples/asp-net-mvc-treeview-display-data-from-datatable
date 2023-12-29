@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # TreeView for ASP.NET MVC - How to display data from a DataTable
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128552549/)**
-<!-- run online end -->
 This example demonstrates how to display data stored in a [DataTable](https://learn.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-7.0) in the [TreeView](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.TreeViewExtension) extension. The TreeView is in [unbound mode](https://docs.devexpress.com/AspNetMvc/10346/components/site-navigation-and-layout/tree-view/binding-to-data/unbound-mode), and the code example dynamically populates the extension with nodes.
 
 ![Display Data from a DataTable in TreeView](image.png)
