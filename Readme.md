@@ -25,7 +25,7 @@ This example demonstrates how to display data stored in a [DataTable](https://le
 * [TreeView for ASP.NET Forms - How to display data from a DataTable in virtual mode](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-to-plain-data-virtual-mode-e2872)
 * [TreeView for ASP.NET Forms - How to bind the control to an XpoDataSource](https://github.com/DevExpress-Examples/how-to-bind-the-aspxtreeview-with-associated-objects-or-the-xpohierarchicaldatasource-e2875)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-treeview-display-data-from-datatable&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-treeview-display-data-from-datatable&~~~was_helpful=no)
 
